@@ -28,7 +28,7 @@
         },
         "AUTH_USERS":{
             "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
-            "value":"6693536228"
+            "value":"6693536228,1511103739"
         }
     }
 }
